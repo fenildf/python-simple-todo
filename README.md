@@ -1,5 +1,4 @@
 # python-simple-todo
-simple-todo with python
 
 <div class="box">
                     <p>为什么要写这个教程呢？非常多的新手问同样的问题，很烦恼。我并不打算写得大而全，我只想写一个简单的入门级的，解决新手的烦恼，其他知识你需要看官方文档。我写了一个简单的 todo 程序，供新手学习和参考。</p>
@@ -7,6 +6,9 @@ simple-todo with python
 <p><img alt="simple-todo" src="README_images/medium.jpg" style="height:500px; width:496px"></p>
 
 <p><a href="README_images/large.png" target="_blank">查看100%效果图 &gt;</a>&nbsp;来看源代码的？直接拉到最后。</p>
+
+<h2>安装python的web.py框架</h2>
+<p>单击这里<a href="http://webpy.org/static/web.py-0.21.tar.gz" target="_blank">下载web.py</a>的安装文件，将下载得到的文件web.py-0.21.tar.gz 解压，进入解压后的文件夹，在命令行下执行：python setup.py install，在Linux 等系统下，需要root 的权限，可以执行：sudo python setup.py install。</p>
 
 <h2>新人的烦恼</h2>
 
@@ -52,7 +54,7 @@ simple-todo with python
 &nbsp;&nbsp;&nbsp; `-- todo/<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `-- edit.html</p>
 
-<p># 使用 <a href="/project/ulipad">Ulipad</a> 的 目录树打印 功能输出。</p>
+<p># 使用 <a href="http://simple-is-better.com/project/ulipad" target="_blank">Ulipad</a> 的 目录树打印 功能输出，也是好用的python编辑器。</p>
 </blockquote>
 
 <h2>他们如何工作？</h2>
@@ -154,7 +156,7 @@ return a[0]</p>
 <p>请放心，源码是可以直接工作的，可以直接在目录下 code.py 即可。其中用到了你经常用的常识，期望有了这个之后你可以轻松地开始 web.py 学习和应用之旅。那么马上开始吧：</p>
 
 <blockquote>
-<p>E:\web\test\todo&gt;code.py<br>
+<p>python code.py<br>
 <a href="http://0.0.0.0:8080/">http://0.0.0.0:8080/</a></p>
 </blockquote>
 
@@ -163,7 +165,7 @@ return a[0]</p>
 <p>如果想使用 80 端口访问，则可以直接加 80 端口号：</p>
 
 <blockquote>
-<p><em>E:\web\test\todo&gt;code.py 80</em></p>
+<p><em>python code.py 80</em></p>
 </blockquote>
 
 </div>
