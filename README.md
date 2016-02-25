@@ -168,4 +168,19 @@ return a[0]</p>
 <p><em>python code.py 80</em></p>
 </blockquote>
 
+<h2>simple-todo 其他python框架版本</h2>
+
+<ul>
+    <li><a href="http://blog.csdn.net/luck_apple/article/details/8814091" title="simple-todo tornado版" target="_blank">simple-todo tornado版</a></li>
+    <li><a href="https://github.com/limodou/uliweb-doc/tree/master/projects/simple_todo" title="simple-todo uliweb版" target="_blank">simple-todo uliweb版</a></li>
+    <li><a href="http://haoluobo.com/2011/07/simple-todo-django/" title="simple-todo Django版" target="_blank">simple-todo Django版</a></li>
+</ul>
+
+<h2>simple-todo 其他语言版本</h2>
+
+<ul>
+    <li><a href="https://github.com/fengmk2/todo" title="simple-todo nodejs版" target="_blank">simple-todo nodejs版</a></li>
+</ul>
+
+
 </div>
